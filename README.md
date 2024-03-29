@@ -9,7 +9,7 @@ Aqui no GitHub, você encontrará meus projetos, experimentos e progresso enquan
 ## Atualmente Aprendendo:😎
 - HTML 
 - CSS
-- JavaScript (em breve)
+- JavaScript
 - Node.js (em breve)
 - TypeScript (em breve)
 - Sass (em breve)
